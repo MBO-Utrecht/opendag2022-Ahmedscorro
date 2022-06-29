@@ -1,5 +1,4 @@
 <?php  
-
     // We maken contact met de mysql-database
     include("connect_db.php");
 

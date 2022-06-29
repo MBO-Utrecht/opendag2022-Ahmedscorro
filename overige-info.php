@@ -97,7 +97,6 @@
                 </div>
             </div>
         </div>
-
         <section id="opleidingen">
             <h1 id="titel2">Opleidingen</h1>
             <h3 class="text1">

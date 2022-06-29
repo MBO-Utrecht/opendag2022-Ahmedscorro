@@ -1,5 +1,5 @@
 <?php
-// We maken contact met de mysql-database
+// We maken contact met de mysql-database.
 include("connect_db.php");
 
 // We maken met de taal SQL een select-query, deze selecteert alle records uit de tabel
