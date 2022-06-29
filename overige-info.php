@@ -50,7 +50,7 @@
 
         </div>
         <div class="section" id="section">
-            <div class="container">
+            <div class="container1">
                 <div class="content-section">
                     <div class="title">
                         <h1>Overige Informatie</h1>
@@ -74,21 +74,21 @@
                 </div>
             </div>
             <div class="icons">
-                <div class="prijzengeld">
+                <div class="calendar1">
                     <svg xmlns="http://www.w3.org/2000/svg" width="55" height="50" fill="currentColor" class="bi bi-calendar" viewBox="0 0 16 16">
                         <path d="M3.5 0a.5.5 0 0 1 .5.5V1h8V.5a.5.5 0 0 1 1 0V1h1a2 2 0 0 1 2 2v11a2 2 0 0 1-2 2H2a2 2 0 0 1-2-2V3a2 2 0 0 1 2-2h1V.5a.5.5 0 0 1 .5-.5zM1 4v10a1 1 0 0 0 1 1h12a1 1 0 0 0 1-1V4H1z" />
                     </svg>
                     <h2>15 november 2022</h2>
                     <h4><b>18:00 tot 20:30</b></h4>
                 </div>
-                <div class="trophies">
+                <div class="calendar2">
                     <svg xmlns="http://www.w3.org/2000/svg" width="55" height="50" fill="currentColor" class="bi bi-calendar" viewBox="0 0 16 16">
                         <path d="M3.5 0a.5.5 0 0 1 .5.5V1h8V.5a.5.5 0 0 1 1 0V1h1a2 2 0 0 1 2 2v11a2 2 0 0 1-2 2H2a2 2 0 0 1-2-2V3a2 2 0 0 1 2-2h1V.5a.5.5 0 0 1 .5-.5zM1 4v10a1 1 0 0 0 1 1h12a1 1 0 0 0 1-1V4H1z" />
                     </svg>
                     <h2>21 januari 2023</h2>
                     <h4><b>10:00 tot 13:00</b></h4>
                 </div>
-                <div class="calendar">
+                <div class="calendar3">
                     <svg xmlns="http://www.w3.org/2000/svg" width="55" height="50" fill="currentColor" class="bi bi-calendar" viewBox="0 0 16 16">
                         <path d="M3.5 0a.5.5 0 0 1 .5.5V1h8V.5a.5.5 0 0 1 1 0V1h1a2 2 0 0 1 2 2v11a2 2 0 0 1-2 2H2a2 2 0 0 1-2-2V3a2 2 0 0 1 2-2h1V.5a.5.5 0 0 1 .5-.5zM1 4v10a1 1 0 0 0 1 1h12a1 1 0 0 0 1-1V4H1z" />
                     </svg>
@@ -196,7 +196,7 @@
             </ul>
             <p> © Copyright MBO Utrecht.</p>
         </footer>
-
+        <script src="nav.js"></script>
 </body>
 
 </html>

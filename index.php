@@ -6,7 +6,7 @@
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="robots" content="all">
-    <meta name="language" content="Dutch">
+    <meta name="language" content="English">
     <meta name="author" content="Ahmed al Hedni">
     <meta name="description" content="">
     <meta name="keywords" content="OPENDAG, ICT">
@@ -52,15 +52,15 @@
         </div>
 
         <footer class="sticky-footer">
-        <!-- <h2>Footer Stick to the Bottom</h2> -->
-        <ul>
-            <li><a href="./index.php">Home</a></li>
-            <li><a href="./overige-info.php">Overige Informatie</a></li>
-            <li><a href="./enquete.php">Enquête</a></li>
-        </ul>
-        <p> © Copyright MBO Utrecht.</p>
-    </footer>
-
+            <!-- <h2>Footer Stick to the Bottom</h2> -->
+            <ul>
+                <li><a href="./index.php">Home</a></li>
+                <li><a href="./overige-info.php">Overige Informatie</a></li>
+                <li><a href="./enquete.php">Enquête</a></li>
+            </ul>
+            <p> © Copyright MBO Utrecht.</p>
+        </footer>
+        <script src="nav.js"></script>
 </body>
 
 </html>
