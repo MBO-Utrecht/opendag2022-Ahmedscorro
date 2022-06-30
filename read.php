@@ -11,7 +11,7 @@ $result = mysqli_query($conn, $sql);
 
 // De functie mysqli_fetch_assoc() maakt van de waarde in $result een associatief array
 $row = "";
-while ($record = mysqli_fetch_assoc($result)){
+while ($record = mysqli_fetch_assoc($result)) {
     $row = $row . "<tr>
     <td>{$record['id']}</td>
     <td>{$record['firstname']}</td>
@@ -69,7 +69,8 @@ while ($record = mysqli_fetch_assoc($result)){
         </div>
     </div>
     <div class="container">
-        <div class="row">
+        <h1 id="titel4">Resultaat</h1>
+        <div class="row4">
             <div class="col-12">
                 <!--- De tabel met gegevens uit de database --->
                 <table>
@@ -93,6 +94,15 @@ while ($record = mysqli_fetch_assoc($result)){
             </div>
         </div>
     </div>
+    <footer class="sticky-footer">
+        <!-- <h2>Footer Stick to the Bottom</h2> -->
+        <ul>
+            <li><a href="./index.php">Home</a></li>
+            <li><a href="./overige-info.php">Overige Informatie</a></li>
+            <li><a href="./enquete.php">Enquête</a></li>
+        </ul>
+        <p> © Copyright MBO Utrecht.</p>
+    </footer>
     <script src="nav.js"></script>
 </body>
 
